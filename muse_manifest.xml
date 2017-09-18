@@ -1,0 +1,501 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="liejuarez.ga" resolutions="1x" timestamp="1505666625094">
+  <folder name="css">
+    <file name="site_global.css" crc="332018316"/>
+    <file name="master_a-master.css" crc="4047535370" ref="conducta:apraxia:index:personalidadd-multiple:alexia:agnosia:autismo:dislexia:hipoacusia:sordera-mixta:dislalia:bipolaridad:trastorno-limite:ezquizofrenia:ceguera:superdotacion:adicciones:dam:temporales:permanentes:pci:sordera-neuro-sensorial:distrofia-muscular:depresion:tourette:disfemia:obsesivo-compulsivo:sindrome-down:ansiedad:dispraxia"/>
+    <file name="conducta.css" crc="3820581762" ref="conducta"/>
+    <file name="apraxia.css" crc="4041943236" ref="apraxia"/>
+    <file name="index.css" crc="483401867" ref="index"/>
+    <file name="iefonts_index.css" crc="4087565734" ref="index"/>
+    <file name="personalidadd-multiple.css" crc="3949714772" ref="personalidadd-multiple"/>
+    <file name="alexia.css" crc="279426374" ref="alexia"/>
+    <file name="agnosia.css" crc="3900203521" ref="agnosia"/>
+    <file name="autismo.css" crc="4164719659" ref="autismo"/>
+    <file name="dislexia.css" crc="328681959" ref="dislexia"/>
+    <file name="hipoacusia.css" crc="63899165" ref="hipoacusia"/>
+    <file name="sordera-mixta.css" crc="4132957284" ref="sordera-mixta"/>
+    <file name="dislalia.css" crc="323345355" ref="dislalia"/>
+    <file name="bipolaridad.css" crc="299184849" ref="bipolaridad"/>
+    <file name="trastorno-limite.css" crc="291020607" ref="trastorno-limite"/>
+    <file name="ezquizofrenia.css" crc="487369206" ref="ezquizofrenia"/>
+    <file name="ceguera.css" crc="466345723" ref="ceguera"/>
+    <file name="superdotacion.css" crc="3926003569" ref="superdotacion"/>
+    <file name="adicciones.css" crc="4146931106" ref="adicciones"/>
+    <file name="dam.css" crc="443112885" ref="dam"/>
+    <file name="temporales.css" crc="4011455720" ref="temporales"/>
+    <file name="permanentes.css" crc="455266309" ref="permanentes"/>
+    <file name="pci.css" crc="13254712" ref="pci"/>
+    <file name="sordera-neuro-sensorial.css" crc="4243431366" ref="sordera-neuro-sensorial"/>
+    <file name="distrofia-muscular.css" crc="4028617887" ref="distrofia-muscular"/>
+    <file name="depresion.css" crc="497385984" ref="depresion"/>
+    <file name="tourette.css" crc="4022502505" ref="tourette"/>
+    <file name="disfemia.css" crc="3784077073" ref="disfemia"/>
+    <file name="obsesivo-compulsivo.css" crc="411214870" ref="obsesivo-compulsivo"/>
+    <file name="sindrome-down.css" crc="294635828" ref="sindrome-down"/>
+    <file name="ansiedad.css" crc="3761379007" ref="ansiedad"/>
+    <file name="dispraxia.css" crc="3989535618" ref="dispraxia"/>
+  </folder>
+  <folder name="assets">
+    <file name="directo.jpg.png" crc="174386139" seo="true" mt="1505417127000"/>
+    <file name="ramp.png" crc="4081493786" seo="true" mt="1505506011000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sindrome-down:autismo:sordera-mixta:ceguera:ezquizofrenia:trastorno-limite:bipolaridad:adicciones:depresion:obsesivo-compulsivo:ansiedad:conducta:personalidadd-multiple:dislexia:dislalia:superdotacion:dam:pci:sordera-neuro-sensorial:distrofia-muscular:tourette:disfemia:dispraxia:apraxia:alexia:agnosia:hipoacusia:temporales:permanentes"/>
+    <file name="museutils.js" crc="17924269" ref="index:sindrome-down:autismo:sordera-mixta:ceguera:ezquizofrenia:trastorno-limite:bipolaridad:adicciones:depresion:obsesivo-compulsivo:ansiedad:conducta:personalidadd-multiple:dislexia:dislalia:superdotacion:dam:pci:sordera-neuro-sensorial:distrofia-muscular:tourette:disfemia:dispraxia:apraxia:alexia:agnosia:hipoacusia:temporales:permanentes"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sindrome-down:autismo:sordera-mixta:ceguera:ezquizofrenia:trastorno-limite:bipolaridad:adicciones:depresion:obsesivo-compulsivo:ansiedad:conducta:personalidadd-multiple:dislexia:dislalia:superdotacion:dam:pci:sordera-neuro-sensorial:distrofia-muscular:tourette:disfemia:dispraxia:apraxia:alexia:agnosia:hipoacusia:temporales:permanentes"/>
+    <file name="museconfig.js" crc="278381782" ref="index:sindrome-down:autismo:sordera-mixta:ceguera:ezquizofrenia:trastorno-limite:bipolaridad:adicciones:depresion:obsesivo-compulsivo:ansiedad:conducta:personalidadd-multiple:dislexia:dislalia:superdotacion:dam:pci:sordera-neuro-sensorial:distrofia-muscular:tourette:disfemia:dispraxia:apraxia:alexia:agnosia:hipoacusia:temporales:permanentes"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:sindrome-down:autismo:sordera-mixta:ceguera:ezquizofrenia:trastorno-limite:bipolaridad:adicciones:depresion:obsesivo-compulsivo:ansiedad:conducta:personalidadd-multiple:dislexia:dislalia:superdotacion:dam:pci:sordera-neuro-sensorial:distrofia-muscular:tourette:disfemia:dispraxia:apraxia:alexia:agnosia:hipoacusia:temporales:permanentes"/>
+    <file name="webpro.js" crc="416662029" ref="index:sindrome-down:autismo:sordera-mixta:ceguera:ezquizofrenia:trastorno-limite:bipolaridad:adicciones:depresion:obsesivo-compulsivo:ansiedad:conducta:personalidadd-multiple:dislexia:dislalia:superdotacion:dam:pci:sordera-neuro-sensorial:distrofia-muscular:tourette:disfemia:dispraxia:apraxia:alexia:agnosia:hipoacusia"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index:temporales:permanentes"/>
+    <file name="require.js" crc="3861931657" ref="index:sindrome-down:autismo:sordera-mixta:ceguera:ezquizofrenia:trastorno-limite:bipolaridad:adicciones:depresion:obsesivo-compulsivo:ansiedad:conducta:personalidadd-multiple:dislexia:dislalia:superdotacion:dam:pci:sordera-neuro-sensorial:distrofia-muscular:tourette:disfemia:dispraxia:apraxia:alexia:agnosia:hipoacusia:temporales:permanentes"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="sindrome-down:autismo:sordera-mixta:ceguera:ezquizofrenia:trastorno-limite:bipolaridad:adicciones:depresion:obsesivo-compulsivo:ansiedad:conducta:personalidadd-multiple:dislexia:dislalia:superdotacion:dam:pci:sordera-neuro-sensorial:distrofia-muscular:tourette:disfemia:dispraxia:apraxia:alexia:agnosia:hipoacusia"/>
+  </folder>
+  <folder name="images">
+    <file name="bco.jpg" crc="110644114" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naranja.jpg" crc="4259084" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="valeria-u2280-r-fr.png" crc="3814843389" ref="index"/>
+    <file name="isabel-u2278-r-fr.png" crc="3946857139" ref="index"/>
+    <file name="nesyt-u2279-r-fr.png" crc="4031719642" ref="index"/>
+    <file name="lorenzo-u2282-r-fr.png" crc="3884951274" ref="index"/>
+    <file name="ivonnee-u2288-r-fr.png" crc="370826432" ref="index"/>
+    <file name="carlos-u2277-r-fr.png" crc="3855865498" ref="index"/>
+    <file name="8d8.jpg" crc="22912449" ref="index:temporales:permanentes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="temporales" alt=""/>
+      <caption webpage="permanentes" alt=""/>
+    </file>
+    <file name="verde.jpg" crc="316244285" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="liston.png" crc="4178378161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inte.png" crc="4168234810" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u2409.png" crc="118973100" ref="index"/>
+    <file name="u2409-r.png" crc="200393877" ref="index"/>
+    <file name="historical_icon-iconscom_54175.png" crc="4019367455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clockneeww.jpg" crc="3846949368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="permanentabajo.png" crc="3781005485" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="permanentabajoup-u7565-r-fr.png" crc="3978626621" ref="index"/>
+    <file name="temporalabajo.png" crc="290885683" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="temporalabajoup-u7584-r-fr.png" crc="4045280973" ref="index"/>
+    <file name="down1.jpg" crc="3774509120" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="down.jpg" crc="3816466898" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="roolover.jpg" crc="496752860" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rooloverce.jpg" crc="421689069" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rooloverbipo.jpg" crc="4230270419" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bipolo.jpg" crc="11654279" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="obse.jpg" crc="4105147154" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="obsesivo.jpg" crc="3838442341" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="multi.jpg" crc="228081532" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="multiple.jpg" crc="3965388942" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="superdot.jpg" crc="3866262870" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="superdotaci.jpg" crc="174480973" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="neuro.jpg" crc="389769612" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="neuross.jpg" crc="4159723496" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="disfemi.jpg" crc="522907937" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="disfe.jpg" crc="506668405" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="alexxiaa.jpg" crc="434733942" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="alexxi.jpg" crc="127473449" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="autismoroolover.jpg" crc="107610432" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="autiroolover.jpg" crc="524007513" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="esq.jpg" crc="3998433070" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dd.jpg" crc="3760521882" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adicciones.jpg" crc="4067056563" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adiccion.jpg" crc="4108528551" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rooloveransiedad.jpg" crc="4132472563" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ansiedadss.jpg" crc="4074028076" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dislex.jpg" crc="3832657877" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dislexia.jpg" crc="296692776" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="da.jpg" crc="4115783874" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dam.jpg" crc="3831559744" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="disstrofiass.jpg" crc="4033364958" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ditrofia.jpg" crc="71145305" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dispraxxi.jpg" crc="4136642653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="disprax.jpg" crc="215303335" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agnosss.jpg" crc="25592307" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agno.jpg" crc="3950445638" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sorede.jpg" crc="3817213222" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sord.jpg" crc="4288345302" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limites.jpg" crc="181578352" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limite.jpg" crc="366961796" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dreppp.jpg" crc="4123882404" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dree.jpg" crc="405880422" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="conduss.jpg" crc="4282792023" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cond.jpg" crc="4273165140" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="disla.jpg" crc="3932431268" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dislalia.jpg" crc="3958084221" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pcia.jpg" crc="3767817302" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pci.jpg" crc="328697397" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teos.jpg" crc="24593302" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teo.jpg" crc="4139850209" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aprax.jpg" crc="204673546" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apraxxx.jpg" crc="4225591839" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hipo1.jpg" crc="373700198" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hipo3.jpg" crc="4248711458" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inteklectual.jpg" crc="330230740" seo="true" ref="index">
+      <caption webpage="index" alt="slideshow, muse-themes.com, adobe muse, website, beautiful, jeremy goldberg"/>
+    </file>
+    <file name="motora.jpg" crc="4230139096" seo="true" ref="index">
+      <caption webpage="index" alt="jeremy goldberg"/>
+    </file>
+    <file name="socioemocional.jpg" crc="149139186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sensorial.jpg" crc="351543939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-left.png" crc="406367075" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button-right.png" crc="3983151717" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="liston2.png" crc="3867630274" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="areade.png" crc="3779889288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="listonmorq.png" crc="154275871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clasificacion.png" crc="4048372479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="4181483738" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="4219587673" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="170865299" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="3789254410" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="downtitl.png" crc="28568904" seo="true" ref="sindrome-down">
+      <caption webpage="sindrome-down" alt=""/>
+    </file>
+    <file name="dowm-crop-u3995.png" crc="193267805" seo="true" ref="sindrome-down">
+      <caption webpage="sindrome-down" alt=""/>
+    </file>
+    <file name="autismot.png" crc="186190701" seo="true" ref="autismo">
+      <caption webpage="autismo" alt=""/>
+    </file>
+    <file name="autismo-crop-u4325.png" crc="4154860436" seo="true" ref="autismo">
+      <caption webpage="autismo" alt=""/>
+    </file>
+    <file name="mixta-crop-u4545.png" crc="3902895164" seo="true" ref="sordera-mixta">
+      <caption webpage="sordera-mixta" alt=""/>
+    </file>
+    <file name="mixx.png" crc="4099979382" seo="true" ref="sordera-mixta">
+      <caption webpage="sordera-mixta" alt=""/>
+    </file>
+    <file name="ceguerr-crop-u4665.png" crc="4218667107" seo="true" ref="ceguera">
+      <caption webpage="ceguera" alt=""/>
+    </file>
+    <file name="ceguera.png" crc="3802498198" seo="true" ref="ceguera">
+      <caption webpage="ceguera" alt=""/>
+    </file>
+    <file name="esquizo.png" crc="381028433" seo="true" ref="ezquizofrenia">
+      <caption webpage="ezquizofrenia" alt=""/>
+    </file>
+    <file name="es.png" crc="4047832520" seo="true" ref="ezquizofrenia">
+      <caption webpage="ezquizofrenia" alt=""/>
+    </file>
+    <file name="limite.png" crc="4058974042" seo="true" ref="trastorno-limite">
+      <caption webpage="trastorno-limite" alt=""/>
+    </file>
+    <file name="esquizos.png" crc="340865720" seo="true" ref="trastorno-limite:dislexia">
+      <caption webpage="trastorno-limite" alt=""/>
+      <caption webpage="dislexia" alt=""/>
+    </file>
+    <file name="bipo.png" crc="89875489" seo="true" ref="bipolaridad">
+      <caption webpage="bipolaridad" alt=""/>
+    </file>
+    <file name="titulosbipo.png" crc="3942330728" seo="true" ref="bipolaridad">
+      <caption webpage="bipolaridad" alt=""/>
+    </file>
+    <file name="adiccioness.png" crc="30735391" seo="true" ref="adicciones">
+      <caption webpage="adicciones" alt=""/>
+    </file>
+    <file name="adicciones.png" crc="3841355593" seo="true" ref="adicciones">
+      <caption webpage="adicciones" alt=""/>
+    </file>
+    <file name="depress.png" crc="4112974954" seo="true" ref="depresion">
+      <caption webpage="depresion" alt=""/>
+    </file>
+    <file name="depresiont.png" crc="212578484" seo="true" ref="depresion">
+      <caption webpage="depresion" alt=""/>
+    </file>
+    <file name="obsess-crop-u5400.png" crc="518114673" seo="true" ref="obsesivo-compulsivo">
+      <caption webpage="obsesivo-compulsivo" alt=""/>
+    </file>
+    <file name="obses.png" crc="32958963" seo="true" ref="obsesivo-compulsivo">
+      <caption webpage="obsesivo-compulsivo" alt=""/>
+    </file>
+    <file name="ansieds.png" crc="322824966" seo="true" ref="ansiedad">
+      <caption webpage="ansiedad" alt=""/>
+    </file>
+    <file name="ansis-crop-u5521.png" crc="4035501324" seo="true" ref="ansiedad">
+      <caption webpage="ansiedad" alt=""/>
+    </file>
+    <file name="condu-crop-u5638.png" crc="135061384" seo="true" ref="conducta">
+      <caption webpage="conducta" alt=""/>
+    </file>
+    <file name="conddd-crop-u5640.png" crc="387555896" seo="true" ref="conducta">
+      <caption webpage="conducta" alt=""/>
+    </file>
+    <file name="fotopa-crop-u5757.png" crc="3921066433" seo="true" ref="personalidadd-multiple">
+      <caption webpage="personalidadd-multiple" alt=""/>
+    </file>
+    <file name="personamul-crop-u5759.png" crc="46949366" seo="true" ref="personalidadd-multiple">
+      <caption webpage="personalidadd-multiple" alt=""/>
+    </file>
+    <file name="dislexia.png" crc="253362583" seo="true" ref="dislexia">
+      <caption webpage="dislexia" alt=""/>
+    </file>
+    <file name="diallai-crop-u5992.png" crc="392525970" seo="true" ref="dislalia">
+      <caption webpage="dislalia" alt=""/>
+    </file>
+    <file name="dislalia.png" crc="186856746" seo="true" ref="dislalia">
+      <caption webpage="dislalia" alt=""/>
+    </file>
+    <file name="superdotat-crop-u6111.png" crc="501444316" seo="true" ref="superdotacion">
+      <caption webpage="superdotacion" alt=""/>
+    </file>
+    <file name="superdotacion.png" crc="387475728" seo="true" ref="superdotacion">
+      <caption webpage="superdotacion" alt=""/>
+    </file>
+    <file name="dam.png" crc="4051722924" seo="true" ref="dam">
+      <caption webpage="dam" alt=""/>
+    </file>
+    <file name="damm-crop-u6232.png" crc="4126994764" seo="true" ref="dam">
+      <caption webpage="dam" alt=""/>
+    </file>
+    <file name="paralisis.png" crc="4136884585" seo="true" ref="pci">
+      <caption webpage="pci" alt=""/>
+    </file>
+    <file name="pciia-crop-u6349.png" crc="3998026006" seo="true" ref="pci">
+      <caption webpage="pci" alt=""/>
+    </file>
+    <file name="neu-crop-u6471.png" crc="180118524" seo="true" ref="sordera-neuro-sensorial">
+      <caption webpage="sordera-neuro-sensorial" alt=""/>
+    </file>
+    <file name="neuross.png" crc="153547447" seo="true" ref="sordera-neuro-sensorial">
+      <caption webpage="sordera-neuro-sensorial" alt=""/>
+    </file>
+    <file name="dist.png" crc="358087182" seo="true" ref="distrofia-muscular">
+      <caption webpage="distrofia-muscular" alt=""/>
+    </file>
+    <file name="distr-crop-u6592.png" crc="229290428" seo="true" ref="distrofia-muscular">
+      <caption webpage="distrofia-muscular" alt=""/>
+    </file>
+    <file name="tourette.png" crc="20086503" seo="true" ref="tourette">
+      <caption webpage="tourette" alt=""/>
+    </file>
+    <file name="teo.png" crc="4068659095" seo="true" ref="tourette">
+      <caption webpage="tourette" alt=""/>
+    </file>
+    <file name="dif-crop-u6828.png" crc="3768409680" seo="true" ref="disfemia">
+      <caption webpage="disfemia" alt=""/>
+    </file>
+    <file name="disfemia.png" crc="234361160" seo="true" ref="disfemia">
+      <caption webpage="disfemia" alt=""/>
+    </file>
+    <file name="dispara-crop-u6948.png" crc="4078099991" seo="true" ref="dispraxia">
+      <caption webpage="dispraxia" alt=""/>
+    </file>
+    <file name="title dispraxia.png" crc="406284726" seo="true" ref="dispraxia">
+      <caption webpage="dispraxia" alt=""/>
+    </file>
+    <file name="aprraxia.png" crc="530612372" seo="true" ref="apraxia">
+      <caption webpage="apraxia" alt=""/>
+    </file>
+    <file name="apraxx2-crop-u7069.png" crc="4131891226" seo="true" ref="apraxia">
+      <caption webpage="apraxia" alt=""/>
+    </file>
+    <file name="alexia-crop-u7186.png" crc="3855659579" seo="true" ref="alexia">
+      <caption webpage="alexia" alt=""/>
+    </file>
+    <file name="alexxxxia.png" crc="4139571779" seo="true" ref="alexia">
+      <caption webpage="alexia" alt=""/>
+    </file>
+    <file name="agnosiaaa.png" crc="527394510" seo="true" ref="agnosia">
+      <caption webpage="agnosia" alt=""/>
+    </file>
+    <file name="agnod-crop-u7307.png" crc="3782705264" seo="true" ref="agnosia">
+      <caption webpage="agnosia" alt=""/>
+    </file>
+    <file name="hipo-crop-u11349.png" crc="4022262029" seo="true" ref="hipoacusia">
+      <caption webpage="hipoacusia" alt=""/>
+    </file>
+    <file name="hipoa.png" crc="67251366" seo="true" ref="hipoacusia">
+      <caption webpage="hipoacusia" alt=""/>
+    </file>
+    <file name="temporaless-crop-u11404.png" crc="434836465" seo="true" ref="temporales">
+      <caption webpage="temporales" alt=""/>
+    </file>
+    <file name="permaa.png" crc="4139018874" seo="true" ref="permanentes">
+      <caption webpage="permanentes" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3782721934" seo="true" mt="1505666308233" redirect="true"/>
+  <file name="sindrome-down.html" crc="265669948" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="autismo.html" crc="288672889" seo="true" mt="1505663668890" redirect="true"/>
+  <file name="sordera-mixta.html" crc="3908029651" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="ceguera.html" crc="187636118" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="ezquizofrenia.html" crc="4002724927" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="trastorno-limite.html" crc="176951689" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="bipolaridad.html" crc="291078829" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="adicciones.html" crc="3926844616" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="depresion.html" crc="200085972" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="obsesivo-compulsivo.html" crc="4018709255" seo="true" mt="1505663304077" redirect="true"/>
+  <file name="ansiedad.html" crc="510756682" seo="true" mt="1505663338133" redirect="true"/>
+  <file name="conducta.html" crc="3927451881" seo="true" mt="1505663443217" redirect="true"/>
+  <file name="personalidadd-multiple.html" crc="3978904397" seo="true" mt="1505663517935" redirect="true"/>
+  <file name="dislexia.html" crc="391233744" seo="true" mt="1505663567129" redirect="true"/>
+  <file name="dislalia.html" crc="39542958" seo="true" mt="1505663610561" redirect="true"/>
+  <file name="superdotacion.html" crc="74362534" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="dam.html" crc="81581149" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="pci.html" crc="3843279670" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="sordera-neuro-sensorial.html" crc="483079821" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="distrofia-muscular.html" crc="12589374" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="tourette.html" crc="4194200046" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="disfemia.html" crc="231691552" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="dispraxia.html" crc="3786829037" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="apraxia.html" crc="435894275" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="alexia.html" crc="189004866" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="agnosia.html" crc="4236093738" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="hipoacusia.html" crc="3796927105" seo="true" mt="1505663175954" redirect="true"/>
+  <file name="temporales.html" crc="3878840474" seo="true" mt="1505665560988" redirect="true"/>
+  <file name="permanentes.html" crc="45161942" seo="true" mt="1505665596796" redirect="true"/>
+</manifest>
